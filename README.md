@@ -1,12 +1,12 @@
 
 # Table of Contents
 
-1.  [Description](#org35fb285)
-2.  [Instructions:](#orgd870221)
+1.  [Description](#org2910068)
+2.  [Instructions:](#org71b5720)
 
 
 
-<a id="org35fb285"></a>
+<a id="org2910068"></a>
 
 # Description
 
@@ -19,9 +19,12 @@ To run the app:
     python ./yml-app/main.py
 
 
-<a id="orgd870221"></a>
+<a id="org71b5720"></a>
 
 # Instructions:
 
 To load xml file choose one using file menu or with Ctrl+O
+
+P.S. Funnily enough xml examle presented at [yml about page](https://yandex.com/support/partnermarket/yml/about-yml.html) is not valid for yml
+standard. So included valid version too.
 
